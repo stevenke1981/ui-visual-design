@@ -31,3 +31,7 @@ ln -s ~/.claude/skills/ui-visual-design ~/.agents/skills/ui-visual-design
 - libadwaita CSS 變數與樣式類別文件（GNOME 48+、Adwaita Sans）
 
 Apple、GNOME 為各自所有者之商標；本 skill 只描述設計語彙，不含其圖示、字型檔或官方元件。系統色數值為公開文件之近似值，使用前請以官方文件核對。
+
+## 授權
+
+[MIT](LICENSE)
